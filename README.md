@@ -79,6 +79,7 @@
 | [01-Agent面试题总结](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra01-面试问题总结.md) | Agent 岗位相关面试问题 |
 | [01-Agent面试题答案](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra01-参考答案.md) | 相关面试问题答案 |
 | [02-上下文工程内容补充](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra02-上下文工程补充知识.md) | 上下文工程内容扩展 |
+| [03-Dify智能体创建保姆级教程](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra03-Dify智能体创建保姆级操作流程.md) | Dify智能体创建保姆级教程 |
 
 ### PDF 版本下载
 
@@ -110,6 +111,11 @@
 
 &emsp;&emsp;现在，准备好进入智能体的奇妙世界了吗？让我们即刻启程！
 
+## 下一步规划
+- []英文版教程
+- []双语视频课程[英文+中文]（将会更加细致，实践课带领大家从设计思路到实施，授人以鱼也授人以渔）
+- []共创第16章（打造各类Agent应用,更打造Agent生态）
+  
 ## 🤝 如何贡献
 
 我们是一个开放的开源社区，欢迎任何形式的贡献！
@@ -131,6 +137,7 @@
 ### Extra-Chapter 贡献者
 - [WH](https://github.com/WHQAQ11) (内容贡献者)
 - [周奥杰-DW贡献者团队](https://github.com/thunderbolt-fire) (西安交通大学, Extra02 内容贡献)
+- [张宸旭-个人开发者](https://github.com/Tasselszcx)(帝国理工学院, Extra03 内容贡献)
 
 ### 特别感谢
 - 感谢 [@Sm1les](https://github.com/Sm1les) 对本项目的帮助与支持
@@ -145,7 +152,7 @@
 ## Star History
 
 <div align='center'>
-    <img src="./docs/images/star-history-2025114.png" alt="Datawhale" width="90%">
+    <img src="./docs/images/star-history-2025117.png" alt="Datawhale" width="90%">
 </div>
 
 <div align="center">
